@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="Новая архитектора&#10;&#10;Удаление сборки">
+    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="Новая архитектора&#10;&#10;перемещения логических элементов по папкам">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/templates/admin/base_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/templates/admin/base_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/website/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/website/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/website/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/website/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/website/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,14 +45,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/application" />
-      <recent name="$PROJECT_DIR$/application/site" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/application" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/application/site" />
       <recent name="$PROJECT_DIR$/mysite" />
     </key>
   </component>
@@ -61,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648849586539</updated>
-      <workItem from="1648849589159" duration="12125000" />
+      <workItem from="1648849589159" duration="15089000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1.1">
       <created>1648851139746</created>
@@ -238,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648997424109</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Новая архитектора&#10;&#10;перемещения логических элементов по папкам">
+      <created>1649001805122</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649001805122</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +285,7 @@
     <MESSAGE value="Обновление архитектуры&#10;&#10;Убрана БД в проекте, обновлено описание" />
     <MESSAGE value="Обновление архитектуры&#10;&#10;Убрана БД в проекте" />
     <MESSAGE value="Новая архитектора&#10;&#10;Удаление сборки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Новая архитектора&#10;&#10;Удаление сборки" />
+    <MESSAGE value="Новая архитектора&#10;&#10;перемещения логических элементов по папкам" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новая архитектора&#10;&#10;перемещения логических элементов по папкам" />
   </component>
 </project>
