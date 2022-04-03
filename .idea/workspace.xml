@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="v 0.1.2&#10;&#10;Mode to src">
+    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/mysite/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysite/templates/admin/base_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/django_basic/templates/admin/base_site.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -59,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648849586539</updated>
-      <workItem from="1648849589159" duration="4935000" />
+      <workItem from="1648849589159" duration="6908000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1.1">
       <created>1648851139746</created>
@@ -75,7 +73,119 @@
       <option name="project" value="LOCAL" />
       <updated>1648851254054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v 0.1.2&#10;&#10;New architecture">
+      <created>1648990976936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648990976936</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v 0.1.2&#10;&#10;Add database">
+      <created>1648991082111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991082111</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v 0.1.2&#10;&#10;Rename app `mysite` -&gt; `my_first_site`">
+      <created>1648991116688</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991116688</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v 0.1.2&#10;&#10;Add `.gitignore` file">
+      <created>1648991171064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991171064</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v 0.1.3&#10;Update idea settings">
+      <created>1648991361928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991361928</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v 0.1.3&#10;&#10;Update idea settings">
+      <created>1648991499750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991499750</updated>
+    </task>
+    <task id="LOCAL-00009" summary="v 0.1.3&#10;&#10;Update quotes">
+      <created>1648991575895</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991575895</updated>
+    </task>
+    <task id="LOCAL-00010" summary="v 0.1.3&#10;&#10;Обновление версии">
+      <created>1648992256909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992256909</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v 0.1.3&#10;&#10;Обновление описания">
+      <created>1648992270094</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992270094</updated>
+    </task>
+    <task id="LOCAL-00012" summary="v 0.1.3&#10;&#10;Обновление описания">
+      <created>1648992301924</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992301924</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v 0.1.3&#10;&#10;Обновление описания">
+      <created>1648992480433</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992480433</updated>
+    </task>
+    <task id="LOCAL-00014" summary="v 0.1.3&#10;&#10;Обновление описания">
+      <created>1648992543675</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992543675</updated>
+    </task>
+    <task id="LOCAL-00015" summary="v 0.1.3&#10;&#10;Обновление описания">
+      <created>1648992567771</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992567771</updated>
+    </task>
+    <task id="LOCAL-00016" summary="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <created>1648992613906</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992613906</updated>
+    </task>
+    <task id="LOCAL-00017" summary="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <created>1648992656021</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992656021</updated>
+    </task>
+    <task id="LOCAL-00018" summary="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <created>1648992680368</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992680368</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +205,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v 0.1.1" />
     <MESSAGE value="v 0.1.2&#10;&#10;Mode to src" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 0.1.2&#10;&#10;Mode to src" />
+    <MESSAGE value="v 0.1.2&#10;&#10;New architecture" />
+    <MESSAGE value="v 0.1.2&#10;&#10;Add database" />
+    <MESSAGE value="v 0.1.2&#10;&#10;Rename app `mysite` -&gt; `my_first_site`" />
+    <MESSAGE value="v 0.1.2&#10;&#10;Add `.gitignore` file" />
+    <MESSAGE value="v 0.1.3&#10;Update idea settings" />
+    <MESSAGE value="v 0.1.3&#10;&#10;Update idea settings" />
+    <MESSAGE value="v 0.1.3&#10;&#10;Update quotes" />
+    <MESSAGE value="v 0.1.3&#10;&#10;Обновление версии" />
+    <MESSAGE value="v 0.1.3&#10;&#10;Обновление описания" />
+    <MESSAGE value="v 0.1.3&#10;&#10;Обновление описания командной строки" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 0.1.3&#10;&#10;Обновление описания командной строки" />
   </component>
 </project>
