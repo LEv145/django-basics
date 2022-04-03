@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="Обновление архитектуры&#10;&#10;Убрана БД в проекте">
+    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="Новая архитектора&#10;&#10;Удаление сборки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/website/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/manage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/application" />
+      <recent name="$PROJECT_DIR$/application/site" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/mysite" />
@@ -55,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648849586539</updated>
-      <workItem from="1648849589159" duration="9761000" />
+      <workItem from="1648849589159" duration="12125000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1.1">
       <created>1648851139746</created>
@@ -225,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648994744351</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Новая архитектора&#10;&#10;Удаление сборки">
+      <created>1648997424109</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1648997424109</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +274,7 @@
     <MESSAGE value="Обновление архитектуры&#10;&#10;Перемещена БД и шаблоны в `application`" />
     <MESSAGE value="Обновление архитектуры&#10;&#10;Убрана БД в проекте, обновлено описание" />
     <MESSAGE value="Обновление архитектуры&#10;&#10;Убрана БД в проекте" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновление архитектуры&#10;&#10;Убрана БД в проекте" />
+    <MESSAGE value="Новая архитектора&#10;&#10;Удаление сборки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новая архитектора&#10;&#10;Удаление сборки" />
   </component>
 </project>
