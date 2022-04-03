@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-basic"
-version = "0.1.0"
+version = "0.1.1"
 description = "Базовое приложение на django, созданное из туториулов"
 authors = ["LEv145"]
 readme = "README.rst"
@@ -34,6 +34,7 @@ django-stubs = "^1.10.1"
 django-polls = {git = "https://github.com/LEv145/django-polls"}
 
 [tool.poetry.dev-dependencies]
+black = "^22.3.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
