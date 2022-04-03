@@ -9,7 +9,7 @@ Django basic
 
 1. Запуск приложения:
 
-.. code-block:: sh
+.. code-block:: bash
 
     $ ./manage.py runserver
 
