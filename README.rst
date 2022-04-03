@@ -11,7 +11,7 @@ Django basic
 
 .. code-block:: bash
 
-    ./manage.py runserver
+    $ ./manage.py runserver
 
 Дополнительно
 -------------
