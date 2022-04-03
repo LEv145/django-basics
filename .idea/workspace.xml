@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="v 0.1.3&#10;&#10;Обновление описания">
-      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+    <list default="true" id="e22ac2b1-cb68-40f3-8995-746d30079895" name="Changes" comment="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648849586539</updated>
-      <workItem from="1648849589159" duration="6604000" />
+      <workItem from="1648849589159" duration="6908000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1.1">
       <created>1648851139746</created>
@@ -162,7 +164,28 @@
       <option name="project" value="LOCAL" />
       <updated>1648992567771</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <created>1648992613906</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992613906</updated>
+    </task>
+    <task id="LOCAL-00017" summary="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <created>1648992656021</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992656021</updated>
+    </task>
+    <task id="LOCAL-00018" summary="v 0.1.3&#10;&#10;Обновление описания командной строки">
+      <created>1648992680368</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992680368</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +214,7 @@
     <MESSAGE value="v 0.1.3&#10;&#10;Update quotes" />
     <MESSAGE value="v 0.1.3&#10;&#10;Обновление версии" />
     <MESSAGE value="v 0.1.3&#10;&#10;Обновление описания" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 0.1.3&#10;&#10;Обновление описания" />
+    <MESSAGE value="v 0.1.3&#10;&#10;Обновление описания командной строки" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 0.1.3&#10;&#10;Обновление описания командной строки" />
   </component>
 </project>
