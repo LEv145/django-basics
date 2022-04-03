@@ -9,13 +9,12 @@ Django basic
 
 1. Запуск приложения:
 
-.. code-block:: bash
-    :linenos:
+.. code:: bash
 
     ./manage.py runserver
 
 Дополнительно
-_____________
+-------------
 
 Доступные веб-сайты
 >>>>>>>>>>>>>>>>>>>>
